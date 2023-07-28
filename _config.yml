@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Sidebar Name"
+  name: "Xuande Chen"
   avatar: "profile.png"
-  bio: "Your biography for the left-hand sidebar"
-  location: "Location"
-  employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
+  bio: "Assistant professor at Université du Québec à Rimouski (UQAR)"
+  location: "Québec, Canada"
+  employer: "Université du Québec à Rimouski"
+  # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar: "https://scholar.google.com/citations?user=_CFUMKEAAAAJ&hl=en&oi=ao"
+  email: "xuande.chen@uqar.ca"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,7 +94,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "academicpages"
+  github: "XuandeChen"
   google_plus:
   keybase:
   instagram:
@@ -107,7 +107,7 @@ author:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  # twitter: "replacethistwitterhandle"
   vine:
   weibo:
   xing:
