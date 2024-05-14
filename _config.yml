@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Xuande's Homepage"
+title: "Xuande Chen Homepage"
 title_separator: "-"
 name: &name "Xuande Chen"
 description: &description "personal description"
@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name: "Xuande Chen"
-  avatar: "profile.png"
-  bio: "Assistant professor at Université du Québec à Rimouski (UQAR)"
-  location: "Québec, Canada"
-  employer: "Université du Québec à Rimouski"
+  avatar: "myprofile.png"
+  bio: "Assistant professor in civil engineering"
+  location: "Canada"
+  employer: "Université du Québec à Rimouski (UQAR)"
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=_CFUMKEAAAAJ&hl=en&oi=ao"
-  email: "xuande.chen@uqar.ca"
+  email: "xuande_chen@uqar.ca"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,14 +94,14 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "XuandeChen"
+  # github: "XuandeChen"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  # orcid: "http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
