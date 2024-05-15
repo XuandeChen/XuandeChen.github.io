@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+---
+A full version of my CV can be found [here](../assets/CV_202404_XC.pdf).
+---
 
-   A full version of my CV can be found [here](../assets/CV_202404_XC.pdf).
-   
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
