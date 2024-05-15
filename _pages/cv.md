@@ -1,15 +1,15 @@
-<!------->
-<!--layout: archive-->
-<!--title: "CV"-->
-<!--permalink: /cv/-->
-<!--author_profile: true-->
-<!--redirect_from:-->
-<!--  - /resume-->
-<!------->
-<!---->
-<!--{% include base_path %}-->
-<!---->
-<!------->
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+---
 
 Our lab is named as DBMCII (Durability of Building Materials and Coastal Infrastructures).
 A full version of my CV can be found [here](../assets/CV_202404_XC.pdf).
