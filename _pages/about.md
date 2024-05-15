@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I hold the position of an assistant professor at UQAR (https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/departement-de-mathematiques-informatique-et-genie/chen-xuande), where my primary research area revolves around civil engineering structures and coastal infrastructures. My research is centered on assessing the deterioration of these structures in the marine environment over the short and long term. Additionally, I conduct research on UHPC, examining their mechanical properties and durability under sustained loads, utilizing both experimental and numerical approaches.
+I hold the position of an assistant professor at  [UQAR](https://www.uqar.ca/universite/a-propos-de-l-uqar/departements/departement-de-mathematiques-informatique-et-genie/chen-xuande), where my primary research area revolves around civil engineering structures and coastal infrastructures. My research is centered on assessing the deterioration of these structures in the marine environment over the short and long term. Additionally, I conduct research on UHPC, examining their mechanical properties and durability under sustained loads, utilizing both experimental and numerical approaches.
 
-You can find my CV here: (../assets/)
+   A full version of my CV can be found [here](../assets/CV_202404_XC.pdf) and [这里] (../assets/简历中文版.pdf)
 
 
