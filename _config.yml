@@ -28,12 +28,16 @@ analytics:
 
 # Site Author
 author:
+  
   name: "Xuande Chen (陈玄德)"
   avatar: "mybio.png"
   #bio: "Assistant professor in civil engineering"
-  location: "Canada"
-  employer: "University of Quebec"
+  
+  location: "Rimouski, Canada"
+  #employer: "University of Quebec"
+  
   googlescholar: "https://scholar.google.com/citations?user=_CFUMKEAAAAJ&hl=en&oi=ao"
+  
   orcid: "https://orcid.org/0000-0002-2462-6943"
   #email: "xuande_chen@uqar.ca"
   #researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
